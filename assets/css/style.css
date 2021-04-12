@@ -1,0 +1,16 @@
+.container{
+  margin: 50px;
+  width: 300px;
+  background-color: rgba(115, 168, 238, 0.623);
+  text-align: center;
+  box-shadow: 1px 1px 5px gray;
+  border-radius: 20px;
+}
+
+.container #lista-numerata{
+  list-style: none;
+  padding: 0;
+  font-size: 22px;
+  text-transform: uppercase;
+  margin: 30px 0;
+}
